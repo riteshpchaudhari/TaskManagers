@@ -1,0 +1,8 @@
+com\task\springboot\filter\CustomFilter.class
+com\task\springboot\controller\TaskManagerController.class
+com\task\springboot\repository\TaskManagerRepository.class
+com\task\springboot\service\impl\TaskManagerServiceImpl.class
+com\task\springboot\controller\HomePageController.class
+com\task\springboot\entity\Task.class
+com\task\springboot\Application.class
+com\task\springboot\service\TaskManagerService.class
